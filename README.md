@@ -93,6 +93,6 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](L
 
 ## Contato
 
-Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato comigo através do meu email: meuemail@example.com
+Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato comigo através do meu email: gustavogomesferreira2012@outlook.com
 
 Espero que este projeto seja útil para aprender React Native e criar aplicativos incríveis! Divirta-se codificando! 🚀
